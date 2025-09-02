@@ -28,12 +28,11 @@
 
 <br>
 
-(https://img.icons8.com/fluency/48/000000/instagram-new.png "@pituu.sj")](https://www.instagram.com/pituu.sj/)
-(https://img.icons8.com/fluency/48/000000/linkedin.png "@emmanuel-sosa-449700368")](https://www.linkedin.com/in/emmanuel-sosa-449700368/)
-(https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000 "@EmmanuelMartnS2")](https://x.com/EmmanuelMartnS2)
-(https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@3794328523")](tel:3794328523) 
-(https://img.icons8.com/fluency/48/000000/apple-mail.png "@emmanuelsosa435@gmail.com")](emmanuelsosa435@gmail.com)
-
+[![@pituu.sj](https://img.icons8.com/fluency/48/000000/instagram-new.png "@pituu.sj")](https://www.instagram.com/pituu.sj/)
+[![@emmanuel-sosa-449700368](https://img.icons8.com/fluency/48/000000/linkedin.png "@emmanuel-sosa-449700368")](https://www.linkedin.com/in/emmanuel-sosa-449700368/)
+[![@EmmanuelMartnS2](https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000 "@EmmanuelMartnS2")](https://x.com/EmmanuelMartnS2)
+[![@3794328523](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@3794328523")](tel:3794328523)
+[![@emmanuelsosa435@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@emmanuelsosa435@gmail.com")](emmanuelsosa435@gmail.com)
 <br>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
