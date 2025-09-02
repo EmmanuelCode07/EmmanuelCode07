@@ -9,15 +9,7 @@
    <a href="https://www.linkedin.com/in/emmanuel-sosa-449700368/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
-   <a href="https://stackoverflow.com/users/11911694/aastha-jha" target="_blank">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  </a>  
-  <a href="https://www.kaggle.com/aastha124" target="_blank">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
-  </a>  
- <a href="https://www.hackerrank.com/aasthajha123/hackos" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-  </a>
+
 
 - 👋 Hi, I’m Emmanuel
 - 💼 I'm a Full Stack Developer (in progress)
@@ -46,7 +38,7 @@
 
 ### 📊 Most Used Language
 
- <div align=center>
+ <div align=left>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelCode07)](https://github.com/EmmanuelCode07/github-readme-stats)
   
@@ -55,4 +47,4 @@
 <br/>
 
 ----------------------------------------------------------------------
-Credit: [aastha12](https://github.com/EmmanuelCode07)
+Credit: [EmmanuelCode07](https://github.com/EmmanuelCode07)
