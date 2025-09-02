@@ -6,11 +6,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Developer;I'm+a+Cibersecurity+Specialist;I´m+a+Data+Scientist" /></a>
 </p>
 
-   <a href="https://www.linkedin.com/in/emmanuel-sosa-449700368/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
-
-
 - 👋 Hi, I’m Emmanuel
 - 💼 I'm a Full Stack Developer (in progress)
 - 💬 Always looking to improve my skills, build meaningful projects, and contribute to the open-source community.
